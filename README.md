@@ -1,9 +1,9 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Ann Michelle Gonzales
+*Full Stack Web Developer*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Certificate of Completion (Full Stack Web Development, Luna Cohort), *Codeup*, 2020-2021
+* Bachelor of Arts (Philosophy), *University of Texas at San Antonio*, 2005-2009
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
