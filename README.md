@@ -16,7 +16,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Output:** Sentiment of Cryptocurrency
 
 # [Project 2: BlogStar](http://youtube.com/dataprofessor)
-![alt text](Screen Recording 2021-09-01 at 12.32.48 PM.mov)
+![alt text](BlogStar.png)
 
 This project makes use of ***Spring Boot*** a Java framework coupled with ***Twitter Bootstrap*** to create a social media blog.
 
